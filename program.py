@@ -1,2 +1,2 @@
-print('Я домашка')
-git commit
+print('Я домашка'
+
